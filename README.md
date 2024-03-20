@@ -7,7 +7,7 @@ This is a simple Todo RestAPI using Django Rest Framework.
 1. Clone the repository
 
    ```bash
-   git clone
+   git clone https://github.com/henishpatel9045/todo-fastApi.git
    ```
 
 2. Create .env file
