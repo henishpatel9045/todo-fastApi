@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+alembic
+pydantic
+pydantic-settings
+pydantic[email]
+mysqlclient
+passlib[bcrypt]
+pyjwt
